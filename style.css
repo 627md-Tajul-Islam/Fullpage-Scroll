@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#fullpage{
+    height:100vh;
+    overflow: hidden;
+}
+#fullpage section{
+    height:100vh;
+}
+#fullpage section h1{
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 100vh;
+   font-size: 10em;
+}
+#fullpage section:nth-child(1){
+    background: #33ff66;
+}
+#fullpage section:nth-child(2){
+    background: #336633;
+}
+#fullpage section:nth-child(3){
+    background: #330066;
+}
+#fullpage section:nth-child(4){
+    background: #ccff00;
+}
+#fullpage section:nth-child(5){
+    background: #3333ff;
+}
+#fullpage section:nth-child(6){
+    background: #669999;
+}
+#fullpage section:nth-child(7){
+    background: #333300;
+}
+#fullpage section:nth-child(8){
+    background: #00ff99;
+}
+#fullpage section:nth-child(9){
+    background: #009999;
+}
+#fullpage section:nth-child(10){
+    background: #9966ff;
+}
